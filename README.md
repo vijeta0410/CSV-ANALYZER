@@ -37,20 +37,14 @@ A powerful and user-friendly **Streamlit-based web application** for analyzing a
 
 1.  **Clone the repository**:
 
-    bash
-
     `git clone https://github.com/vijeta0410/csv-analyzer.git
     cd csv-analyzer`
 
 2.  **Install the required packages**:
 
-    bash
-
     `pip install -r requirements.txt`
 
 3.  **Run the application**:
-
-    bash
 
     `streamlit run app.py`
 
@@ -97,13 +91,13 @@ A powerful and user-friendly **Streamlit-based web application** for analyzing a
 📦 Project Structure
 --------------------
 
-bash
-
-`csv-analyzer/
-├── .streamlit/                
-├── app.py # Main application script
-├── requirements.txt           
-└── README.md                  `
+```
+csv-analyzer/
+├── .streamlit/                # Streamlit configuration files
+├── streamlit_csv_analyzer_ui.py # Main application script
+├── requirements.txt           # Required Python packages
+└── README.md                  # Project documentation
+```
 
 * * * * *
 
