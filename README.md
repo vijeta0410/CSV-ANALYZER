@@ -99,13 +99,11 @@ A powerful and user-friendly **Streamlit-based web application** for analyzing a
 
 bash
 
-Copy code
-
 `csv-analyzer/
-├── .streamlit/                # Streamlit configuration files
+├── .streamlit/                
 ├── app.py # Main application script
-├── requirements.txt           # Required Python packages
-└── README.md                  # Project documentation`
+├── requirements.txt           
+└── README.md                  `
 
 * * * * *
 
